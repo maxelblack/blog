@@ -14,7 +14,7 @@ Hello, my friend.
 ## 友链
 博客友链开放添加，如需添加到本站的[项目仓库](https://github.com/maxelblack/blog)提交一个issue申请即可。
 
-另外也可以直接[申请 Maxel 的网站主页的友链](https://maxelblack.github.io)，主页的位置更加显眼（但可能访问的用户较少）
+另外也可以直接[申请 Maxel 的网站主页的友链](https://maxelblack.github.io/p/friends.html)，主页的位置更加显眼（但可能访问的用户较少）
 
 ## 联系我
 
