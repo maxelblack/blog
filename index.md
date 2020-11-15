@@ -1,7 +1,7 @@
 ---
 title: 主页
 ---
-<div style="color:blue;font-size:1.1em">
+<div style="color:blue;font-size:1.1em;background-color:white">
 # hope we can be as brave as each other._
 </div>
 <br />
