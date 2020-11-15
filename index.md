@@ -6,6 +6,6 @@ title: 主页
 {% for post in site.posts %}
 ## [{{post.title}}]({{post.url}})
 
-<p>{{post.excerpt}}</p>... [More]({{post.url}})
+<p>{{post.excerpt}}</p>... [More](/blog/{{post.url}})
 
 {% endfor %}
