@@ -3,8 +3,8 @@ title: 主页
 ---
 # 文章目录
 
-{% for port in site.ports %}
-## [{{port.title}}]({{port.url}})
-{{port.excerpt}}... [More]({{port.url}})
+{% for post in site.posts %}
+## [{{post.title}}]({{post.url}})
+{{post.excerpt}}... [More]({{post.url}})
 
 {% endfor %}
