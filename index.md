@@ -5,6 +5,7 @@ title: 主页
 
 {% for post in site.posts %}
 ## [{{post.title}}]({{post.url}})
-{{post.excerpt}}... [More]({{post.url}})
+
+<p>{{post.excerpt}}</p>... [More]({{post.url}})
 
 {% endfor %}
