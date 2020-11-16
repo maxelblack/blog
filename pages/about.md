@@ -5,7 +5,7 @@ title: 关于 Maxel's Blog
 
 Hello, my friend.
 
-欢迎来到 Maxel's Blog ，这里是 Maxel Black 的个人博客（废话）。这里有一些 Maxel 分享的IT方面的知识和经验等，个人感觉干货较多，~~不过水帖还是有的嘛（逃）~~
+欢迎来到 Maxel's Blog ，这里是 Maxel Black 的个人博客（废话）。这里有一些我自己日常生活的随笔记录，以及分享的IT方面的知识和经验等，甚至应该还有些奇怪的文章被藏起来了（不在文章列表中）。个人感觉干货较多，~~不过水帖还是有的嘛（逃）~~
 
 欢迎来访 [Maxel's Home](https://maxelblack.github.io) （我的网站主页）
 
