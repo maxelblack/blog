@@ -22,10 +22,10 @@ title: 主页
             <a href="{{site.baseurl}}/pages/categories.html#{{ categorie }}" class="hover-underline">{{ categorie }}</a>
             {%- endfor %}
           </div>
-	  <div style="color:grey;font-size:0.75em;">{{ post.excerpt }}</div>
         </li>
     {%- if forloop.last or post_previous_year != post_year %}
       </ul>
+      <div style="color:grey;font-size:0.75em;">{{ post.excerpt }}</div>
     </div>
     {%- endif %}
   {%- endfor %}
