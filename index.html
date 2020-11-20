@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 首页
+title: 主页
 ---
 <div class="page page-index">
   {% for post in site.posts  -%}
@@ -16,6 +16,7 @@ title: 首页
           <span class="date">{{ post.date | date: "%Y/%m/%d" }}</span>
           <div class="title">
             <a href="{{ site.baseurl | append: post.url }}" class="hover-underline">{{ post.title }}</a>
+	    {{ post.excerpt }}
           </div>
           <div class="categories">
             {% for categorie in post.categories -%}
