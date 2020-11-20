@@ -3,7 +3,9 @@ layout: mypost
 title: 友情链接
 ---
 
-欢迎各位朋友与我建立友链，如需友链请到[留言板](chat.html)留言，我看到留言后会添加上的，本站的友链信息如下
+欢迎各位互添友链，如需添加请到 [GitHub 仓库](https://github.com/maxelblack/blog)提交一个 issue ，我看到后会添加并删除该 issue ， 若发现 issue 被删除不必顾虑。
+
+#### 本站的友链信息
 
 ```
 名称：{{ site.title }}

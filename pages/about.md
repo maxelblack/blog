@@ -1,6 +1,6 @@
 ---
 layout: mypost
-title: 关于 Maxel's Blog
+title: 关于博客
 ---
 
 Hello, my friend.
@@ -9,7 +9,7 @@ Hello, my friend.
 
 欢迎来访 [Maxel's Home](https://maxelblack.github.io) （我的网站主页）
 
-博客站点托管在 GitHub ，同时~~白嫖性地~~用了免费的 GitHub Pages 服务。使用的主题是 TMaize ，可以在 GitHub 仓库 [tmaize-blog](https://github.com/TMaize/tmaize-blog) 找到 ，主题制作不易，如果喜欢可以动手给作者加个 Star 。
+博客站点托管在 GitHub ，同时~~白嫖性地~~用了免费的 GitHub Pages 服务。网页模板基于 TMaize Blog ，可以在 GitHub 仓库 [tmaize-blog](https://github.com/TMaize/tmaize-blog) 找到 ，网页制作不易，如果喜欢可以动手给作者加个 Star 。
 
 ## 友链
 博客友链开放添加，如需添加到本站的[项目仓库](https://github.com/maxelblack/blog)提交一个issue申请即可。
