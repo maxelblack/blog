@@ -1,6 +1,8 @@
 {%- assign buildAt = site.time | date: "%Y%m%d%H%M%S" -%}
 <head>
+  <!--Page Title-->
   <title>{{ page.title }} | {{ site.title }}</title>
+  <!--Meta Date-->
   <meta charset="utf-8" />
   <meta http-equiv="content-language" content="zh-CN" />
   <meta name="theme-color" content="#ffffff" />
@@ -15,8 +17,13 @@
   <meta name="description" content="{{ site.description }}"/>
   <meta name="keywords" content="{{ site.keywords }}"/>
   {% endif -%}
+  <!--Font-->
+  <link rel="preconnect" href="https://fonts.gstatic.com" />
+  <link href="https://fonts.googleapis.com/css2?family=ZCOOL+XiaoWei&display=swap" rel="stylesheet" />
+  <!--Icon-->
   <link rel="icon" href="{{site.baseurl}}/static/img/favicon.ico" />
   <link rel="apple-touch-icon" href="{{site.baseurl}}/static/img/logo.png" />
+  <!--Above CSS File-->
   {%- if page.layout == "mypost" %}
   <link rel="stylesheet" href="{{site.baseurl}}/static/css/common.css?t={{buildAt}}">
   <link rel="stylesheet" href="{{site.baseurl}}/static/css/post.css?t={{buildAt}}">
