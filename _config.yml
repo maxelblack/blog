@@ -5,7 +5,7 @@ title: Maxel's Blog
 description: A simple student's simple blog.
 keywords: Maxel,Black,Blog,Java,HTML,Minecraft,Pd2,MXCode
 author: Maxel Black
-footerText: 'Copyright © 2020'
+footerText: 'Copyright © 2020 Maxel Black'
 
 # Jekyll基本配置
 permalink: /posts/:year/:month/:day/:title.html
