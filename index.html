@@ -16,9 +16,9 @@ title: 主页
           <span class="date">{{ post.date | date: "%Y/%m/%d" }}</span>
           <div class="title">
             <a href="{{ site.baseurl | append: post.url }}" class="hover-underline">{{ post.title }}</a>
-	    <p style="font-size:0.8em;">
+	    <div style="font-size:0.8em;">
 	    {{ post.excerpt }}
-	    </p>
+	    </div>
           </div>
           <div class="categories">
             {% for categorie in post.categories -%}
