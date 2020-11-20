@@ -17,12 +17,12 @@ title: 主页
           <div class="title">
             <a href="{{ site.baseurl | append: post.url }}" class="hover-underline">{{ post.title }}</a>
           </div>
-	  <div style="color:grey;font-size:0.75em;">{{ post.excerpt }}</div>
           <div class="categories">
             {% for categorie in post.categories -%}
             <a href="{{site.baseurl}}/pages/categories.html#{{ categorie }}" class="hover-underline">{{ categorie }}</a>
             {%- endfor %}
           </div>
+	  <div style="color:grey;font-size:0.75em;">{{ post.excerpt }}</div>
         </li>
     {%- if forloop.last or post_previous_year != post_year %}
       </ul>
