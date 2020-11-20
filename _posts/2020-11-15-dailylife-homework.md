@@ -1,6 +1,7 @@
 ---
 layout: mypost
 title: 为什么我“坚持不写作业”
+excerpt: 那些关于大部分作业必要性的问题
 categories: [日常生活]
 ---
 
