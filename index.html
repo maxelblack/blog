@@ -23,9 +23,11 @@ title: 主页
             {%- endfor %}
           </div>
         </li>
+	<li>
+          <div style="color:grey;font-size:0.75em;">{{ post.excerpt }}</div>
+	</li>
     {%- if forloop.last or post_previous_year != post_year %}
       </ul>
-      <div style="color:grey;font-size:0.75em;">{{ post.excerpt }}</div>
     </div>
     {%- endif %}
   {%- endfor %}
