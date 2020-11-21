@@ -3,6 +3,8 @@
   src: url('../font/consola.ttf');
 }
 
+.highlight { font-family: 'Consolas'; }
+
 .highlight .c  { color: #999988; } /* Comment */
 .highlight .cm { color: #999988; } /* Comment.Multiline */
 .highlight .cp { color: #999988; } /* Comment.Preproc */
