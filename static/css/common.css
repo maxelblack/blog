@@ -1,13 +1,14 @@
-@font-face {
+/*@font-face {
   font-family: 'ZCOOL XiaoWei';
   src: url('/static/font/zcoolxiaowei.ttf');
 }
-/*
+*/
+
 @font-face {
   font-family: 'Consolas';
   src: url('../font/consola.ttf');
 }
-*/
+
 html {
   color: #333333;
   background: #ffffff;
@@ -18,7 +19,7 @@ html {
   text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'ZCOOL XiaoWei','Microsoft YaHei UI' 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'ZCOOL XiaoWei', 'Microsoft YaHei UI', 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
 }
 body {
   max-width: 680px;
