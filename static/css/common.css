@@ -1,12 +1,13 @@
 @font-face {
   font-family: 'ZCOOL XiaoWei';
-  src: url('../font/zcoolxiaowei.ttf');
+  src: url('/static/font/zcoolxiaowei.ttf');
 }
+/*
 @font-face {
   font-family: 'Consolas';
   src: url('../font/consola.ttf');
 }
-
+*/
 html {
   color: #333333;
   background: #ffffff;
