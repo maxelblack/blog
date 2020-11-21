@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'ZCOOL XiaoWei', serif;
+  font-family: 'ZCOOL XiaoWei';
   src: url('../font/zcoolxiaowei.ttf');
 }
 @font-face {
@@ -17,7 +17,7 @@ html {
   text-size-adjust: 100%;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'ZCOOL XiaoWei','Microsoft YaHei UI' 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
+  font-family: 'ZCOOL XiaoWei','Microsoft YaHei UI' 'Microsoft YaHei', 'PingFang SC', 'Noto Sans CJK SC', 'Hiragino Sans GB', 'WenQuanYi Micro Hei', sans-serif;
 }
 body {
   max-width: 680px;
