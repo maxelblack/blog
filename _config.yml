@@ -16,8 +16,8 @@ exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.
 excerpt_separator: <!--MORE-->
 
 # 域名配置
-domainUrl: 'https://maxelbk.pd2.ink'
-baseurl: ''
+domainUrl: 'https://maxelblack.github.io'
+baseurl: '/blog'
 
 # 吐个槽地址
 tucaoUrl: '' 
